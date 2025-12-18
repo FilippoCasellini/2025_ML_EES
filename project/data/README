@@ -1,6 +1,0 @@
-- timeseries: daily time series of all hydrometeorological variables
-	- observation_based: all variables based on observations by BAFU, MeteoSwiss, SLF
-
-- static_attributes: basin attributes in ten categories (observation-based)
-	
-- annual_timeseries: glacier information in annual resolution per catchment
